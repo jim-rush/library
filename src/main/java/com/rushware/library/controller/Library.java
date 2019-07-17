@@ -1,4 +1,6 @@
-package com.rushware.library;
+package com.rushware.library.controller;
+
+import com.rushware.library.model.Book;
 
 import java.util.ArrayList;
 import java.util.List;

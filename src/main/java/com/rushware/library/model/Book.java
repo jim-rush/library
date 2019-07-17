@@ -1,8 +1,7 @@
-package com.rushware.library;
+package com.rushware.library.model;
 
 import lombok.Builder;
 import lombok.Data;
-import org.springframework.stereotype.Component;
 
 @Data
 @Builder
